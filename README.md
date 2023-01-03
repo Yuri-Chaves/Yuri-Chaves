@@ -36,4 +36,7 @@
   <a href="https://www.udemy.com/user/yuri-chaves-5/" target="_blank">
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
   </a>
+  
+  ![Snake animation](https://github.com/Yuri-Chaves/Yuri-Chaves/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
