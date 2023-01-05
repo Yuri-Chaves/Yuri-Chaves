@@ -46,3 +46,12 @@
   ![Snake animation](https://github.com/Yuri-Chaves/Yuri-Chaves/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div>
+  <a href="https://github.com/Yuri-Chaves/secretWord">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuri-Chaves&repo=secretWord" />
+  </a>
+  <a href="https://github.com/Yuri-Chaves/MyFirstAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuri-Chaves&repo=MyFirstAPI" />
+  </a>
+</div>
