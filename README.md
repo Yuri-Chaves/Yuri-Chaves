@@ -1,14 +1,14 @@
 # @Yuri-Chaves
 <div align="center">
   <a href="https://github.com/Yuri-Chaves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri-Chaves&count_private=true&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Chaves&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri-Chaves&count_private=true&show_icons=true&theme=nightowl" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Chaves&layout=compact&theme=nightowl" />
   </a>
 </div>
 
 ##
 
-<div>
+<div align="center">
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -18,7 +18,7 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/yuri-chaves-330612214" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -39,11 +39,11 @@
   </a> 
 </div>
 
-<div>
+<div align="center">
   <a href="https://github.com/Yuri-Chaves/secretWord">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuri-Chaves&repo=secretWord" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuri-Chaves&repo=secretWord&theme=nightowl"" />
   </a>
   <a href="https://github.com/Yuri-Chaves/MyFirstAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuri-Chaves&repo=MyFirstAPI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuri-Chaves&repo=MyFirstAPI&theme=nightowl"" />
   </a>
 </div>
